@@ -39,7 +39,7 @@ Para garantizar la seguridad, el servicio utiliza autenticación basada en JWT (
 
 ## Requisitos
 
-- **Java**: Versión 18 o superior.
+- **Java**: Versión 17 o superior.
 - **Maven**: Para la gestión de dependencias.
 - **AWS**: Acceso a un bucket de S3 configurado.
 - **Docker y Docker Compose**: Para la ejecución de contenedores.
