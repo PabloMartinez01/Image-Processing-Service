@@ -1,5 +1,12 @@
 # Image Processing Service
 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
 ## Introducción
 
 Esta aplicación es un servicio REST avanzado desarrollado con Spring Boot, diseñado para facilitar la manipulación de imágenes de forma eficiente y segura. Ofrece funcionalidades para subir, actualizar, eliminar y aplicar diversas transformaciones a imágenes almacenadas en AWS S3, mientras que la información de sus metadatos se almacena localmente en una base de datos MySQL.
